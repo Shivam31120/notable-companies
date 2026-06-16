@@ -119,7 +119,7 @@ df = df[
 ]
 
 # ── Header ─────────────────────────────────────────────────────────────────────
-st.markdown('<div class="main-header">🏢 Notable Indian Companies</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-header"> Notable Indian Companies</div>', unsafe_allow_html=True)
 st.markdown('<div class="sub-header">Interactive analytics dashboard · 493 companies across industries, cities & eras</div>', unsafe_allow_html=True)
 
 # ── KPI cards ──────────────────────────────────────────────────────────────────
