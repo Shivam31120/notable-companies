@@ -1,3 +1,5 @@
+## **Live App:** [CLICK HERE](https://notable-companies-8osrztbynwckpf5owolqwr.streamlit.app/)
+
 # Notable Indian Companies — Analytics Dashboard
 
 An interactive Streamlit dashboard for exploring and analysing a dataset of **493 notable Indian companies** across industries, cities, eras, and ownership types.
